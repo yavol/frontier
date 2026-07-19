@@ -1,0 +1,6 @@
+{
+  "name": "Frontier Foundations",
+  "description": "An offline, native Android application that teaches technical judgment by presenting plausible answers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
